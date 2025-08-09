@@ -2,9 +2,7 @@
 Este proyecto es un juego interactivo del **Amigo Secreto** hecho en JavaScript, HTML y CSS.  
 Permite a los usuarios ingresar nombres, verlos en una lista en pantalla y realizar un sorteo aleatorio para descubrir quién es el "amigo secreto".
 
-
-
-## 📌 Descripción del juego
+#  Descripción del juego
 
 1. El jugador escribe un **nombre** en la barra de texto.
 2. Presiona el botón **"Añadir"** para agregarlo a la lista.
@@ -19,9 +17,8 @@ Permite a los usuarios ingresar nombres, verlos en una lista en pantalla y reali
 
 
 
-## 🛠 Tecnologías utilizadas
+# Tecnologías utilizadas
 - **HTML5** para la estructura.
 - **CSS3** para el estilo.
 - **JavaScript** para la lógica del juego y manipulación del DOM.
 
----
