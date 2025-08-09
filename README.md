@@ -20,5 +20,5 @@ Permite a los usuarios ingresar nombres, verlos en una lista en pantalla y reali
 # Tecnologías utilizadas
 - **HTML5** para la estructura.
 - **CSS3** para el estilo.
-- **JavaScript** para la lógica del juego y manipulación del DOM.
+- **JavaScript** para la lógica del juego .
 
