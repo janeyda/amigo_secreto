@@ -1,7 +1,7 @@
 # amigo_secreto
 Este proyecto es un juego interactivo del **Amigo Secreto** hecho en JavaScript, HTML y CSS.  
 Permite a los usuarios ingresar nombres, verlos en una lista en pantalla y realizar un sorteo aleatorio para descubrir quién es el "amigo secreto".
-![Captura del juego]([https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/imagenes/captura-juego.png?raw=true](https://github.com/janeyda/amigo_secreto/blob/c0ed0130125ca2df0b2e845ccd1da585e1285560/amigo.png)
+![Imagen del juego del Amigo Secreto](https://github.com/janeyda/amigo_secreto/blob/c0ed0130125ca2df0b2e845ccd1da585e1285560/amigo.png?raw=true)
 #  Descripción del juego
 
 1. El jugador escribe un **nombre** en la barra de texto.
